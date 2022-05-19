@@ -49,6 +49,18 @@ const speakers = [
     image: 'speaker4.jpg',
     bio: 'The best way to predict the future is to create it.',
   },
+  {
+    name: 'Yemi Osibanjo',
+    title: 'Head of Service',
+    image: 'speaker8.jpg',
+    bio: 'Nothing we do can change the past but everything we do can change the future.',
+  },
+  {
+    name: 'Sophie Alakija',
+    title: 'Minister of culture and tourism',
+    image: 'speaker9.png',
+    bio: 'Never let your fear decide your future.',
+  },
 ];
 
 const speakersPlaceHolder = document.querySelector('#speakers .persons');

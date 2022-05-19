@@ -2,7 +2,7 @@
 
 # Project Name
 
-Microverse Capstone Project
+MICROVERSE CAPSTONE PROJECT, TOWN HALL MEETING
 
 > This is my Capstone project for the first module in microverse, it is a static website for a town hall meeting
 
@@ -14,7 +14,7 @@ Microverse Capstone Project
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://www.loom.com/share/f2175977c3da454caa496bbc8cde7fe3)
+(https://www.loom.com/share/f2175977c3da454caa496bbc8cde7fe3)
 https://bushido-brown.github.io/Town-hall-meeting/
 
 ## Getting Started

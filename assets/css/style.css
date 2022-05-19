@@ -467,8 +467,18 @@ footer {
   padding: 3rem 2rem;
 }
 
+#can {
+  background: #333;
+  color: #fff;
+}
+
+#brand {
+  color: #fff;
+}
+
 footer .wrapper.wrapper {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   gap: 2rem;
 }
