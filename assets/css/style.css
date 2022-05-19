@@ -160,6 +160,7 @@ section {
 #section1 {
   background: #f7f7f7 url(../img/background9.png) top center no-repeat;
   padding: 7rem 1rem;
+  background-size: cover;
 }
 
 #section1 .wrapper {
